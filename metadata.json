@@ -1,0 +1,6 @@
+{
+  "name": "SnapPop Photo Booth",
+  "description": "A tactile neo-brutalist photo booth that snaps pictures, lets Gemini design a custom vintage postcard, and prints or downloads 4x6 keepsakes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
